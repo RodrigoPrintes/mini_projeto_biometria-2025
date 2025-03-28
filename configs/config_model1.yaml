@@ -1,0 +1,7 @@
+# Configurações para o modelo 1
+model_name: "iris"
+input_shape: [320, 240, 3]
+num_classes: 108
+batch_size: 32
+epochs: 50
+learning_rate: 0.001

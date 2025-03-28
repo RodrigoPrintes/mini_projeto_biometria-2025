@@ -1,0 +1,12 @@
+unzip
+tensorflow
+numpy==1.25.2
+tqdm==4.66.1
+keras
+gdown
+opencv-python==4.8.0.76
+matplotlib
+pandas
+seaborn
+sklearn
+tensorflow_addons
